@@ -11,6 +11,7 @@ Este repositorio contiene un Analisis Exploratorio de Datos (EDA) para la inform
 3. [Análisis Exploratorio](#analisis-exploratorio)
 4. [Dashboards](#4-dashboards)
 5. [KPI](#5-kpi)
+6. [Conclusiones](#6-conclusiones-generales-del-proyecto)
 
 # 1. **Contexto**
 
