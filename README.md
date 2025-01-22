@@ -80,7 +80,7 @@ Una de las tareas de este proyecto era armar un KPI que indicara cual es el valo
 
 Asi mismo se intentó crear otros KPI con la misma base de datos, sin embargo, fue complicado porque la información suministrada para accesos de hogares no arroja mucha información. Por ejemplo, para medir el porcentaje de penetración en valores relativos con respecto al total de la población, se requiere conocer la cantidad total de hogares existentes. Hacer un estimado de esto no tenia sentido para crear un KPI. Por ejemplo. 
 
-# 6. ** Conclusiones Generales del Proyecto **
+# 6. **Conclusiones Generales del Proyecto**
 
 Este proyecto demuestra que en Argentina, en la ultima década hubo un incremente considerable tanto de los accesos a internet, como de la velocidad de carga y descarga así como de los ingresos que el sector genera. 
 Se muestra que con el paso de los años, se inicia con unos porcentajes de participacion en velocidad, ingresos y conexiones relativamente bajos pero que crecen de forma sostenida cada año. 
